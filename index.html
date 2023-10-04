@@ -1,1 +1,96 @@
-Hello World
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Eric Nilsson</title>
+    <link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet">
+    <link href="styles/main.css" rel="stylesheet">
+    <link rel="icon" href="images/favicon.png">
+    <script src="https://kit.fontawesome.com/dcd15a714e.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <nav id="navbar">
+        <div id="logo">
+            <a href="index.html"><h4>Eric <span>Nilsson</span></h4></a>
+        </div>
+        <ul class="nav-links" id="nav-links">
+            <li><a href="#">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="blog.html">Blog</a></li>
+            <li><a href="https://github.com/nieric">My Github</a></li>
+            <li><a href="test.html">Testpage</a></li>
+        </ul>
+        <div class="burger">
+            <div class="line1"></div>
+            <div class="line2"></div>
+            <div class="line3"></div>
+        </div>
+    </nav> 
+
+    <main>
+        <div id="landing">
+            <div id="landing-text">
+                <div id="landing-text-inner">
+                    <h1>Welcome</h1>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="leftcolumn">
+              <div class="card">
+                <h2>Who I am</h2>
+                <p>
+                    I am a last year Master's student at <a href="https://www.chalmers.se/en/Pages/default.aspx">Chalmers University of Technology</a>.
+                    You can read more about me <a href="about.html">here</a>.
+                </p>
+                <h2>What I do</h2>
+                <p>
+                    I am currently doing my Master's thesis under the supervision of Prof. Ulf Gran. 
+                    You can read about my progress in <a href="blog.html">my blog</a>.
+                </p>
+
+              </div>
+              <div class="card">
+
+              </div>
+            </div>
+            <div class="rightcolumn">
+                <div class="card" onclick="location.href='about.html';" style="cursor: pointer;">
+                    <h2>About Me</h2>
+                    <div id="profile"></div>
+                    <p>23 y.o. M. Sc. student in Physics. Read more here</p>
+                  </div>
+            </div>
+
+            
+        </div>
+
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <div class="footer-section-about">
+
+            </div>
+            <ul class="footer-section-links">
+                <li><i class="far fa-envelope"></i> <a href="mailto:nieric@chalmers.se">E-mail</a></li>
+                <li><i class="fab fa-instagram"></i> <a href="https://www.instagram.com/ericnilssson/">Instagram</a></li>
+                <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/channel/UC6Wg4dU_crvMut8U9j8LRdQ">YouTube</a></li>
+                <li><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/eric-nilsson-361a5a1a1/">LinkedIn</a></li>
+                <li><i class="fab fa-github"></i> <a href="https://github.com/nieric">GitHub</a></li>
+            </ul>
+        </div>
+        <dic class="footer-bottom">
+            Designed by Eric Nilsson in 2020
+        </dic>
+    </footer>
+
+    <script src="JavaScript/app.js"></script>
+</body>
+
+</html>

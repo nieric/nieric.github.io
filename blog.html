@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="styles/blog.css" type="text/css">
+    <title>Eric Nilsson - Blog</title>
+    <!-- MathJax for LaTeX in HTML-->
+    <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+    </script>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <link rel="icon" href="images/favicon.png">
+</head>
+<body>
+    <header>
+        <div class="inner_header">
+            <div class="logo_container">
+                <h1>Eric <span>Nilsson</span></h1>
+            </div>
+
+            <ul class="navigation">
+                <a href="index.html"><li>Home</li></a>
+                <a href="about.html"><li>About</li></a>
+                <a href="blog.html"><li>Blog</li></a>
+                <a href="https://github.com/nieric"><li>My github</li></a>
+            </ul>
+        </div> 
+    </header>
+
+    <main>
+        <div id="landing">
+            <div id="landing-text">
+                <div id="landing-text-inner">
+                    <h1>Blog</h1>
+                    <a href="#blogposts" class="button" id="view-blog">Read Blog</a>
+                </div>
+            </div>
+            <div id="landing-image" class="fakeimg"></div>
+        </div>
+
+        <div id="blogposts">
+            <div id="blogtitle">
+                <h2>Latest post</h2>
+            </div>
+            <div id="blogpreamble">
+                Ever wondered if langoustines are like mermaids to crabs? That's what I'll discuss
+                in this blogpost.
+            </div>
+            
+
+        </div>
+
+        <div class="row">
+            <div class="leftcolumn">
+              <div class="card" onclick="location.href='Blogposts/masters.html';" style="cursor: pointer;">
+                <h2>My Master's Thesis</h2>
+                <h5>Learn about what I'm doing during the coming year, Dec 22, 2020</h5>
+                <div class="fakeimg" style="height:200px;">Image</div>
+                <p>Some text..</p>
+              </div>
+              <div class="card" onclick="location.href='Blogposts/masters.html';" style="cursor: pointer;">
+                <h2>The Lagrangain, analytical mechanics and Hamilton's principle</h2>
+                <h5>Title description, Dec 22, 2020</h5>
+                <div class="fakeimg" style="height:200px;">Image</div>
+                <p>$$\mathcal{L} = T + V$$ and all that</p>
+              </div>
+            </div>
+            <div class="rightcolumn">
+              <div class="card" onclick="location.href='about.html';" style="cursor: pointer;">
+                <h2>About Me</h2>
+                <div class="fakeimg" style="height:100px;">Image</div>
+                <p>M. Sc. student in Physics. Read more here</p>
+              </div>
+              <div class="card">
+                <h3>Popular Post</h3>
+                <div class="fakeimg">Image</div><br>
+                <div class="fakeimg">Image</div><br>
+                <div class="fakeimg">Image</div>
+              </div>
+              <div class="card">
+                <h3>Follow Me</h3>
+                <p>Some text..</p>
+              </div>
+            </div>
+          </div>
+    </main>
+    <footer>
+        This is the footer
+
+    </footer>
+</body>
+</html>
+
