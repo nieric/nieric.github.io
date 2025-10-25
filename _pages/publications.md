@@ -21,7 +21,7 @@ nav_order: 2
 
 <h1>Papers</h1>
 
-{% bibliography -f published %}
+{% bibliography -f papers %}
 
 <h1>Theses</h1>
 
