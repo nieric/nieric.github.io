@@ -145,7 +145,7 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: false
   news:
     defaults:
       layout: post
@@ -173,6 +173,11 @@ kramdown:
 # Includes & excludes
 include: ["_pages", "_scripts"]
 exclude:
+  - _pages/blog.md
+  - _pages/books.md
+  - _pages/repositories.md
+  - _pages/dropdown.md
+  - _pages/profiles.md
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
