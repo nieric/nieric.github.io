@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "Projects",
-          description: "A collection of my current and past projects.",
+          description: "A collection of my current and past projects. Page under construction.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -405,16 +405,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-sucessfully-defended-my-licentiate-thesis-half-way-thesis-you-can-read-it-here",
+          title: 'I sucessfully defended my Licentiate thesis (“half-way” thesis). You can read it here....',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-m-going-to-leiden-as-a-visiting-researcher-in-the-group-of-prof-koenraad-schalm-until-december",
+          title: 'I’m going to Leiden as a visiting researcher in the group of Prof....',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -495,13 +490,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://orcid.org/0000-0002-1055-8329", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',
