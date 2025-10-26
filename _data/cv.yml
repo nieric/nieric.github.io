@@ -8,25 +8,23 @@
     - name: Position
       value: PhD student
     - name: Languages
-      value: Swedish, English
+      value: "Swedish (native), English (fluent), Spanish (basic)"
 
 - title: Education
   type: time_table
   contents:
-    - title: MSc Physics (Swedish *Civilingenjör*)
+    - title: "MSc Physics (Swedish *Civilingenjör*)"
       institution: Chalmers University of Technology, Gothenburg, Sweden
       year: 2019-2021
       description:
-        - MSc Thesis: Surface plasmon polaritons in strongly correlated media
-        - Supervisors: Prof. Ulf Gran
-        - Average Grade: 5/5.0
+        - "MSc Thesis: Surface plasmon polaritons in strongly correlated media. Supervisor: Prof. Ulf Gran"
+        - "Average Grade: 5.0/5.0"
     - title: BSc Engineering Physics
       institution: Chalmers University of Technology, Gothenburg, Sweden
       year: 2016-2019
       description:
-        - BSc Thesis: Simulating Many-Particle Systems on an Emulated Quantum Computer
-        - Supervisors: Profs. Christian Forssén and Andreas Ekström
-        - Average Grade: 4.87/5.0
+        - "BSc Thesis: Simulating Many-Particle Systems on an Emulated Quantum Computer. Supervisors: Profs. Christian Forssén and Andreas Ekström"
+        - "Average Grade: 4.87/5.0"
 
 - title: Experience
   type: time_table
@@ -39,13 +37,13 @@
       year: 2021 - 2021
       description:
         - Hourly employed TA at the Department of Mathematical Sciences.
-        - Courses: TMA660Linear Algebra and Geometry, TMA976 Calculus (cont. course)
+        - "Courses: TMA660Linear Algebra and Geometry, TMA976 Calculus (cont. course)"
     - title: Amanuensis
       institution: Chalmers University of Technology, Gothenburg, Sweden
       year: 2019 - 2020
       description:
         - Part-time (20%) at the Department of Mathematical Sciences with TA responsibilities.
-        - Courses: TMA660 Linear Algebra and Geometry, MVE035 Multivariable Calculus, TMA321 Mathematical Statistics
+        - "Courses: TMA660 Linear Algebra and Geometry, MVE035 Multivariable Calculus, TMA321 Mathematical Statistics"
         - Math support for all Chalmers students at the Library
     - title: Teaching Assistant
       institution: Chalmers University of Technology, Gothenburg, Sweden
@@ -57,7 +55,7 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2018,2021
+    - year: "2018, 2021"
       items:
         - Guldkärnan award for best Teaching Assistant twice by the students at the Engineering Physics and Engineering Mathematics programs at Chalmers
     - year: 2021
