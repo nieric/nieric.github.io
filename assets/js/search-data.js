@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "My academic CV in PDF-form can be found by licking the PDF icon to the right.",
+          description: "My academic CV in PDF-form can be found by clicking the PDF icon to the right.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
