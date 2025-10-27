@@ -32,7 +32,7 @@ orcid_id: 0000-0002-1055-8329 # your ORCID ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
-# research_gate_profile: # your profile on ResearchGate
+research_gate_profile: https://www.researchgate.net/profile/Eric-Nilsson-3?ev=hdr_xprf # your profile on ResearchGate
 # rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: XgKzI7IAAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
