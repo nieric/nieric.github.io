@@ -5,7 +5,7 @@ permalink: /projects/
 description: A collection of my current and past projects. Page under construction.
 nav: true
 nav_order: 3
-display_categories: [Work, Personal]
+display_categories: [Research, Personal]
 horizontal: false
 ---
 
