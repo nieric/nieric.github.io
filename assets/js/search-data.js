@@ -419,6 +419,11 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-2d-fermi-liquids",
+          title: '2D Fermi Liquids',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2DFL/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
@@ -459,6 +464,16 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-dynamical-electromagnetism-in-holography",
+          title: 'Dynamical Electromagnetism in Holography',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/DynamicEM/";
+            },},{id: "projects-holographic-effective-medium-theory",
+          title: 'Holographic Effective Medium Theory',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/HolographicEMT/";
             },},{
         id: 'social-email',
         title: 'email',
