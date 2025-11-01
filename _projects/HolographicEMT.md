@@ -2,7 +2,7 @@
 layout: post
 title: Holographic Effective Medium Theory
 description:
-img: 
+img: assets/img/publication_preview/emt.png
 importance: 1
 category: Research
 related_publications: true
