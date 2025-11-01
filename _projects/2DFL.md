@@ -2,7 +2,7 @@
 layout: post
 title: 2D Fermi Liquids
 description:
-img: assets/img/publication_preview/odd-even.svg
+img: assets/img/publication_preview/odd-even.png
 importance: 1
 category: Research
 related_publications: false
