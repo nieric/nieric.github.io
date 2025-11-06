@@ -13,7 +13,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: "MSc Physics (Swedish *Civilingenjör*)"
+    - title: "MSc Physics (Swedish 'Civilingenjör')"
       institution: Chalmers University of Technology, Gothenburg, Sweden
       year: 2019-2021
       description:
@@ -57,7 +57,7 @@
   contents:
     - year: "2018, 2021"
       items:
-        - Guldkärnan award for best Teaching Assistant twice by the students at the Engineering Physics and Engineering Mathematics programs at Chalmers
+        - 2x recipient of the "Guldkärnan" award for best Teaching Assistant, given by the students at the Engineering Physics and Engineering Mathematics programs at Chalmers
     - year: 2021
       items:
         - Excellence Initiave Nano "Excellence PhD" position, Chalmers University of Technology
