@@ -5,7 +5,7 @@ description:
 img: assets/img/publication_preview/odd-even.png
 importance: 1
 category: Research
-related_publications: false
+related_publications: true
 ---
 
 In clean, two-dimensional materials, the electrons can reach a hydrodynamic transport regime, flowing around obstacles like water. However, the kinematics of electrons in 2D are heavily constrained by the scattering phase space set by the Fermi surface. By expanding Fermi surface deformations into angular harmonics, one may classify that even-parity deformations can decay through head-on collisions, leading to a standard Fermi
