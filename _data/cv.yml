@@ -13,6 +13,9 @@
 - title: Education
   type: time_table
   contents:
+    - title: PhD student
+      institution: Chalmers University of Technology, Gothenburg, Sweden
+      year: 2021 - Present
     - title: "MSc Physics (Swedish 'Civilingenjör')"
       institution: Chalmers University of Technology, Gothenburg, Sweden
       year: 2019-2021
@@ -76,4 +79,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Music, Bodybuilding, Cooking
+    - <u>Hobbies:</u> Music, Exercise, Cooking
