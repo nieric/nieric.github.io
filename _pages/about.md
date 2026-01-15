@@ -11,6 +11,8 @@ profile:
   more_info: >
     <p>Chalmers University of Technology</p>
     <p>Gothenburg, Sweden</p>
+    <p>nieric AT chalmers.se</p>
+    <p>benericnilsson AT gmail.com</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
