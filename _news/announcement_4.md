@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-12-21
+date: 2025-10-14
 inline: true
 related_posts: false
 ---
 
-My visit to Leiden has paid off: our paper on Quantum critical theories in periodic potentials is out on ArXiV! Check it out [here](https://arxiv.org/abs/2512.19480)
+Our paper on the odd-even effect in 2D Fermi liquids got published in PRX! You can read it here [here](https://doi.org/10.1103/ly37-5gdw).
