@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm going to Leiden as a visiting researcher in the group of Prof. Koenraad Schalm until December. 
+I'm going to Leiden as a visiting researcher in the group of Prof. [Koenraad Schalm](https://www.universiteitleiden.nl/en/staffmembers/koenraad-schalm) until December. 

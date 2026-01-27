@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Chalmers University of Technology</a>.
+subtitle: <a Theoretical physicist </a>.
 
 profile:
   align: right
@@ -28,6 +28,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a currently a Ph.D. student at the division of Subatomic, High Energy and Plasma Physics at [Chalmers University of Technology](http://chalmers.se/en/) (Aug 2021 - ~Jun 2026) under the supervision of Prof. [Ulf Gran](https://www.chalmers.se/personer/ulfgran/). My research is focused on various aspects of novel electron transport. This includes hydrodynamic and tomographic transport in 2D materials, as well as the physics of the strange metal phase in high-temperature superconductors. I have modeled electrons in 2D materials using kinetic theory, and investigated plasmons in strange metals using holography ("AdS/CMT"), where one solves a gravitaional problem in higher dimension. Currently, I am modeling strongly correlated quantum critical systems with strong translational symmetry breaking using numerical holography. 
+I am a currently a Ph.D. student at the division of Subatomic, High Energy and Plasma Physics at [Chalmers University of Technology](http://chalmers.se/en/) (Aug 2021 - ~Jun 2026) under the supervision of Prof. [Ulf Gran](https://www.chalmers.se/personer/ulfgran/). My research is focused on various aspects of novel electron transport. This includes hydrodynamic and tomographic transport in 2D materials, as well as the physics of the strange metal phase in high-temperature superconductors. I have modeled electrons in 2D materials using kinetic theory, and investigated plasmons in strange metals using holography ("AdS/CMT"), where one solves a gravitaional problem in higher dimension. Currently, I am modeling strongly correlated quantum critical systems with strong translational symmetry breaking using numerical holography, together with Prof. [Koenraad Schalm](https://www.universiteitleiden.nl/en/staffmembers/koenraad-schalm).
 
 You can read about my current and past projects [here](https://ericnilsson.dev/projects/).
