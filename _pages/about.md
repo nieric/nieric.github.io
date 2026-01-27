@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a Theoretical physicist </a>.
+subtitle: <b Theoretical physicist </b>.
 
 profile:
   align: right
