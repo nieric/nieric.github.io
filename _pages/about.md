@@ -1,8 +1,8 @@
 ---
 layout: about
-title: About
+title: About me
 permalink: /
-subtitle: <b Theoretical physicist </b>.
+subtitle: <b> Theoretical physicist </b>
 
 profile:
   align: right
