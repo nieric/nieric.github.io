@@ -51,7 +51,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-won-a-best-poster-award-travel-money-at-this-years-area-of-advance-nano-community-building-event-you-view-the-poster-here",
           title: 'I won a Best Poster Award (+ travel money) at this years’ “Area...',
           description: "",
-          section: "News",},{id: "news-our-paper-on-the-odd-even-effect-in-2d-fermi-liquids-got-published-in-prx-you-can-read-it-here-here",
+          section: "News",},{id: "news-our-paper-on-the-odd-even-effect-in-2d-fermi-liquids-got-published-in-prx-you-can-read-it-here",
           title: 'Our paper on the odd-even effect in 2D Fermi liquids got published in...',
           description: "",
           section: "News",},{id: "news-my-visit-to-leiden-has-paid-off-our-paper-on-quantum-critical-theories-in-periodic-potentials-is-out-on-arxiv-check-it-out-here",
