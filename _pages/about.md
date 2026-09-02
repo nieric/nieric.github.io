@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Chalmers University of Technology</p>
     <p>Gothenburg, Sweden</p>
-    <p>nieric AT chalmers.se</p>
+    <p>eric.nilsson AT polytechnqiue.edu</p>
     <p>benericnilsson AT gmail.com</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -28,6 +28,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I recently finished my Ph.D. the division of Subatomic, High Energy and Plasma Physics at [Chalmers University of Technology](http://chalmers.se/en/) (Aug 2021 -- Jun 2026) under the supervision of Prof. [Ulf Gran](https://www.chalmers.se/personer/ulfgran/). My research is focused on various aspects of novel electron transport. This includes hydrodynamic and tomographic transport in 2D materials, as well as the physics of the strange metal phase in high-temperature superconductors. I have modeled electrons in 2D materials using kinetic theory, and investigated plasmons in strange metals using holography ("AdS/CMT"), where one solves a gravitaional problem in higher dimension. Currently, I am modeling strongly correlated quantum critical systems with strong translational symmetry breaking using numerical holography, together with Prof. [Koenraad Schalm](https://www.universiteitleiden.nl/en/staffmembers/koenraad-schalm).
+I recently finished my Ph.D. the division of Subatomic, High Energy and Plasma Physics at [Chalmers University of Technology](http://chalmers.se/en/) (Aug 2021 -- Jun 2026) under the supervision of Prof. [Ulf Gran](https://www.chalmers.se/personer/ulfgran/). My research is focused on various aspects of novel electron transport. This includes hydrodynamic and tomographic transport in 2D materials, as well as the physics of the strange metal phase in high-temperature superconductors. I have modeled electrons in 2D materials using kinetic theory, and investigated plasmons in strange metals using holography ("AdS/CMT"), where one solves a gravitaional problem in higher dimension. I have also modeling strongly correlated quantum critical systems with strong translational symmetry breaking using numerical holography, working together with Prof. [Koenraad Schalm](https://www.universiteitleiden.nl/en/staffmembers/koenraad-schalm).
+
+I am currently a postdoc at CPHT, École Polytechnique in the group of Prof. [Blaise Goutéraux](https://www.polytechnique.edu/annuaire/gouteraux-blaise).
 
 You can read about my current and past projects [here](https://ericnilsson.dev/projects/).
