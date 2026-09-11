@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Chalmers University of Technology</p>
     <p>Gothenburg, Sweden</p>
-    <p>eric.nilsson AT polytechnqiue.edu</p>
+    <p>eric.nilsson AT polytechnique.edu</p>
     <p>benericnilsson AT gmail.com</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
